@@ -13,6 +13,7 @@
   object-fit: contain;
 }
 
+
 .morningbrewlogo {
   height: 80px;
   width: auto;
@@ -33,4 +34,25 @@
 .morningbrew-section .active {
   padding-top: 0;
   color: black;
+}
+
+
+.buzzs-section {
+  background-color: rgb(48, 73, 95);
+  color: white;
+}
+
+.buzzslogo {
+  height: 70px;
+  width: auto;
+}
+
+.buzzs-section h4 {
+  margin: 0;
+  color: white;
+}
+
+.buzzs-section .nav-item {
+  margin-left: 4px;
+  margin-right: 4px;
 }
