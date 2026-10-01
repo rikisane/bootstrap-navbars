@@ -81,3 +81,24 @@
 .aloha-shop {
   color: #EDC601 !important;
 }
+
+
+.dukes-section {
+  background-color: #017574;
+  color: white;
+}
+
+.dukeslogo {
+  width: 200px;
+  height: auto;
+}
+
+.dukes-section .nav-link {
+  color: white;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.dukes-order {
+  color: #F1A228 !important;
+}
