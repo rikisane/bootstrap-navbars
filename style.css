@@ -1,0 +1,14 @@
+.boardroom-section {
+  background-color: #133B40;
+}
+
+.boardroom-section a {
+  color: white;
+}
+
+.boardroomlogo {
+  height: 90px !important;
+  width: auto !important;
+  max-width: 100%;
+  object-fit: contain;
+}
